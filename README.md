@@ -1,5 +1,5 @@
 # IC - Adiabatic cloud parcel model
 
-##Files from the IC project:
+##Files from the IC project
 
 
